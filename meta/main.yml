@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - role: telusdigital.python
+  - src: telusdigital.python
     python_legacy_support: yes
     python_packages:
       - ansible
